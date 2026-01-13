@@ -1,0 +1,8 @@
+streamlit
+streamlit-mic-recorder
+streamlit-lottie
+requests
+gTTS
+g2p-en
+python-Levenshtein
+openai-whisper
