@@ -1,3 +1,6 @@
+import nltk
+nltk.download('averaged_perceptron_tagger_eng', quiet=True)
+
 from g2p_en import G2p
 import Levenshtein
 import difflib
