@@ -1,0 +1,13 @@
+streamlit
+streamlit-mic-recorder
+streamlit-lottie
+openai-whisper
+torch
+torchaudio
+g2p_en
+nltk
+python-Levenshtein
+regex
+gtts
+requests
+numpy
